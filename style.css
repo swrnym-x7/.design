@@ -1,4 +1,6 @@
-
+           ::selection{
+                       color:#e1fd61
+           }
             @font-face {
                 font-family: Matter;
                 src: url(/assets/fonts/matter/matter-light.woff2) format("woff2"),url(/assets/fonts/matter/matter-light.woff) format("woff");
