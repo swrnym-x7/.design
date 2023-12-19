@@ -206,10 +206,10 @@
                 }
             }
 
-            body {
-                background: #fff;
-                color: #000
-            }
+           body {
+	background: #121212;
+	color: #000;
+}
 
             .no-scroll body,.smooth body {
                 overflow: hidden!important
